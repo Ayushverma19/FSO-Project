@@ -1,0 +1,10 @@
+It is the File System Organiser Project .
+Devloped by Ayush Verma
+
+Its contents are 
+fileSystem module : Its function is to perform the mangage , about and help operations.
+view module : Its functio is to view the folder tree.
+
+
+To run :
+open run.js and use the command : node run.js  "command" "loction of folder". 
